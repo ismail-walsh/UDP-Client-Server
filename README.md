@@ -16,9 +16,10 @@ Functional Requirements
 
 ## Outputs
 Your system should output to the command console clear statements to demonstrate the interactions and functionality.
-Non-Functional Requirements
-Your code must be commented throughout
-Best practice should also be applied to your code.
+
+## Non-Functional Requirements
+  - Your code must be commented throughout
+  - Best practice should also be applied to your code.
 
 ## Technical Requirements 
   - The application is built using Java (Liberica JDK 11)
