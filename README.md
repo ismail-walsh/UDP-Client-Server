@@ -21,5 +21,5 @@ Your code must be commented throughout
 Best practice should also be applied to your code.
 
 ## Technical Requirements 
-The application is built using Java (Liberica JDK 11)
-The application runs from the Command Console
+  - The application is built using Java (Liberica JDK 11)
+  - The application runs from the Command Console
